@@ -1,0 +1,250 @@
+{
+  "heading": "Synonyms and Antonyms",
+  "topics": [
+    {
+      "heading": "Synonyms and Antonyms",
+      "questions": [
+        {
+          "questionNo": 1,
+          "question": "Choose the synonym for 'famous':",
+          "options": [
+            { "text": "Unknown" },
+            { "text": "Popular" },
+            { "text": "Adult" },
+            { "text": "Boring" }
+          ],
+          "answer": 1,
+          "explanation": "'Famous' and 'popular' both mean that many people know about and like someone or something. They're synonyms because they have very similar meanings."
+        },
+        {
+          "questionNo": 2,
+          "question": "Which word is an antonym of 'child'?",
+          "options": [
+            { "text": "Kid" },
+            { "text": "Adult" },
+            { "text": "Fan" },
+            { "text": "Actor" }
+          ],
+          "answer": 1,
+          "explanation": "'Child' refers to a young person, while 'adult' means a grown-up. They're antonyms because they describe opposite stages of life."
+        },
+        {
+          "questionNo": 3,
+          "question": "Select the synonym for 'discovered':",
+          "options": [
+            { "text": "Undiscovered" },
+            { "text": "Lost" },
+            { "text": "Found" },
+            { "text": "Impossible" }
+          ],
+          "answer": 2,
+          "explanation": "'Discovered' and 'found' both mean to come across something new or locate something. They're synonyms because they describe the same action of finding something."
+        },
+        {
+          "questionNo": 4,
+          "question": "Which word means the opposite of 'exciting'?",
+          "options": [
+            { "text": "Boring" },
+            { "text": "Thrilling" },
+            { "text": "Amazing" },
+            { "text": "Popular" }
+          ],
+          "answer": 0,
+          "explanation": "'Exciting' means something that makes you feel eager or enthusiastic, while 'boring' means something dull or uninteresting. They're antonyms because they describe opposite feelings."
+        },
+        {
+          "questionNo": 5,
+          "question": "Choose the synonym for 'amazing':",
+          "options": [
+            { "text": "Ordinary" },
+            { "text": "Stunning" },
+            { "text": "Unknown" },
+            { "text": "Few" }
+          ],
+          "answer": 1,
+          "explanation": "'Amazing' and 'stunning' both describe something that is very impressive or surprising. They're synonyms because they express similar feelings of awe."
+        },
+        {
+          "questionNo": 6,
+          "question": "Which word is an antonym of 'won'?",
+          "options": [
+            { "text": "Lost" },
+            { "text": "Received" },
+            { "text": "Discovered" },
+            { "text": "Praised" }
+          ],
+          "answer": 0,
+          "explanation": "'Won' means to be successful in a game or contest, while 'lost' means to be unsuccessful. They're antonyms because they describe opposite outcomes."
+        },
+        {
+          "questionNo": 7,
+          "question": "Select the synonym for 'many':",
+          "options": [
+            { "text": "Few" },
+            { "text": "Numerous" },
+            { "text": "Unknown" },
+            { "text": "Possible" }
+          ],
+          "answer": 1,
+          "explanation": "'Many' and 'numerous' both mean a large number or quantity of something. They're synonyms because they describe similar amounts."
+        },
+        {
+          "questionNo": 8,
+          "question": "Choose the synonym for 'dedication':",
+          "options": [
+            { "text": "Laziness" },
+            { "text": "Commitment" },
+            { "text": "Uncaring" },
+            { "text": "Mean" }
+          ],
+          "answer": 1,
+          "explanation": "'Dedication' and 'commitment' both mean being devoted to a task or goal. They're synonyms because they describe a similar attitude of working hard towards something."
+        },
+        {
+          "questionNo": 9,
+          "question": "Which word is an antonym of 'kind'?",
+          "options": [
+            { "text": "Nice" },
+            { "text": "Caring" },
+            { "text": "Thoughtful" },
+            { "text": "Mean" }
+          ],
+          "answer": 3,
+          "explanation": "'Kind' describes someone who is friendly and considerate, while 'mean' describes someone who is unkind or cruel. They're antonyms because they describe opposite ways of treating others."
+        },
+        {
+          "questionNo": 10,
+          "question": "Select the synonym for 'fans':",
+          "options": [
+            { "text": "Critics" },
+            { "text": "Supporters" },
+            { "text": "Actors" },
+            { "text": "Adults" }
+          ],
+          "answer": 1,
+          "explanation": "'Fans' and 'supporters' both refer to people who like and encourage someone or something. They're synonyms because they describe people with similar positive feelings."
+        },
+        {
+          "questionNo": 11,
+          "question": "Which word means the opposite of 'possible'?",
+          "options": [
+            { "text": "Exciting" },
+            { "text": "Amazing" },
+            { "text": "Impossible" },
+            { "text": "Discovered" }
+          ],
+          "answer": 2,
+          "explanation": "'Possible' means something can be done, while 'impossible' means it can't be done. They're antonyms because they describe opposite levels of ability to do something."
+        },
+        {
+          "questionNo": 12,
+          "question": "Choose the synonym for 'actors':",
+          "options": [
+            { "text": "Critics" },
+            { "text": "Fans" },
+            { "text": "Movie-stars" },
+            { "text": "Adults" }
+          ],
+          "answer": 2,
+          "explanation": "'Actors' and 'movie stars' both refer to people who perform in films or plays. They're synonyms because they describe people with the same job in entertainment."
+        },
+        {
+          "questionNo": 13,
+          "question": "Which word is an antonym of 'well-known'?",
+          "options": [
+            { "text": "Famous" },
+            { "text": "Popular" },
+            { "text": "Exciting" },
+            { "text": "Unknown" }
+          ],
+          "answer": 3,
+          "explanation": "'Well-known' means many people know about something, while 'unknown' means very few people know about it. They're antonyms because they describe opposite levels of familiarity."
+        },
+        {
+          "questionNo": 14,
+          "question": "Which word means the opposite of 'numerous'?",
+          "options": [
+            { "text": "Many" },
+            { "text": "Few" },
+            { "text": "Popular" },
+            { "text": "Amazing" }
+          ],
+          "answer": 1,
+          "explanation": "'Numerous' means a large number, while 'few' means a small number. They're antonyms because they describe opposite quantities."
+        },
+        {
+          "questionNo": 15,
+          "question": "Choose the synonym for 'praise':",
+          "options": [
+            { "text": "Hate" },
+            { "text": "Boring" },
+            { "text": "Uncaring" },
+            { "text": "Admire" }
+          ],
+          "answer": 3,
+          "explanation": "'Praise' and 'admire' both mean to express approval or respect for someone. They're synonyms because they show similar positive feelings towards someone."
+        },
+        {
+          "questionNo": 16,
+          "question": "Which word is an antonym of 'caring'?",
+          "options": [
+            { "text": "Kind" },
+            { "text": "Thoughtful" },
+            { "text": "Nice" },
+            { "text": "Uncaring" }
+          ],
+          "answer": 3,
+          "explanation": "'Caring' means showing concern for others, while 'uncaring' means not showing concern. They're antonyms because they describe opposite attitudes towards others' feelings."
+        },
+        {
+          "questionNo": 17,
+          "question": "Select the synonym for 'thrilling':",
+          "options": [
+            { "text": "Boring" },
+            { "text": "Ordinary" },
+            { "text": "Exciting" },
+            { "text": "Impossible" }
+          ],
+          "answer": 2,
+          "explanation": "'Thrilling' and 'exciting' both describe something that makes you feel very happy or enthusiastic. They're synonyms because they express similar feelings of excitement."
+        },
+        {
+          "questionNo": 18,
+          "question": "Which word means the opposite of 'supporters'?",
+          "options": [
+            { "text": "Fans" },
+            { "text": "Critics" },
+            { "text": "Entertainers" },
+            { "text": "Children" }
+          ],
+          "answer": 1,
+          "explanation": "'Supporters' are people who encourage and stand by someone, while 'critics' are people who judge and often find fault. They're antonyms because they have opposite attitudes."
+        },
+        {
+          "questionNo": 19,
+          "question": "Choose the synonym for 'like':",
+          "options": [
+            { "text": "Hate" },
+            { "text": "Lost" },
+            { "text": "Uncaring" },
+            { "text": "Admire" }
+          ],
+          "answer": 3,
+          "explanation": "'Like' and 'admire' both mean to have positive feelings towards someone or something. They're synonyms because they express similar approval or enjoyment."
+        },
+        {
+          "questionNo": 20,
+          "question": "Select the synonym for 'stunning':",
+          "options": [
+            { "text": "Ordinary" },
+            { "text": "Boring" },
+            { "text": "Amazing" },
+            { "text": "Unknown" }
+          ],
+          "answer": 2,
+          "explanation": "'Stunning' and 'amazing' both describe something that is extremely impressive or surprising. They're synonyms because they express similar feelings of awe or admiration."
+        }
+      ]
+    }
+  ]
+}
